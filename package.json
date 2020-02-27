@@ -1,0 +1,35 @@
+{
+  "name": "kata-starter-javascript",
+  "version": "1.0.0",
+  "description": "A starter template for TDD JavaScript exercises, code katas, and interviews",
+  "keywords": [
+    "TDD",
+    "JavaScript",
+    "jest",
+    "starter",
+    "exercise",
+    "interview",
+    "kata"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "author": "Havret",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-jest": "^25.1.0",
+    "babel-preset-env": "^1.7.0",
+    "eslint-config-semistandard": "^15.0.0",
+    "eslint-config-standard": "^14.1.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.1",
+    "jest": "^25.1.0",
+    "prettier": "1.19.1",
+    "regenerator-runtime": "^0.13.3"
+  },
+  "eslintConfig": {
+    "extends": "eslint-config-semistandard"
+  }
+}
