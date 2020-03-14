@@ -27,9 +27,12 @@
     "eslint-plugin-standard": "^4.0.1",
     "jest": "^25.1.0",
     "prettier": "1.19.1",
-    "regenerator-runtime": "^0.13.3"
+    "regenerator-runtime": "^0.13.5"
   },
   "eslintConfig": {
     "extends": "eslint-config-semistandard"
+  },
+  "dependencies": {
+    "npm-check-updates": "^4.0.4"
   }
 }
