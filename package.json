@@ -33,6 +33,6 @@
     "extends": "eslint-config-semistandard"
   },
   "dependencies": {
-    "npm-check-updates": "^4.0.4"
+    "npm-check-updates": "^16.4.3"
   }
 }
